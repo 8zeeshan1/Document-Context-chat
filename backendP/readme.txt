@@ -5,4 +5,6 @@ ReactJs,
 Gemini API,
 shutil to upload the pdf,
 fitz to import file,
-langchain text splitter to split the texts
+langchain text splitter to split the texts,
+uses pinecone for the database,
+used GoogleGenerativeAIEmbeddings for embedding the file,
