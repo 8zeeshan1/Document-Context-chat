@@ -3,3 +3,6 @@ used:
 FastAPI,
 ReactJs,
 Gemini API,
+shutil to upload the pdf,
+fitz to import file,
+langchain text splitter to split the texts
